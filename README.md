@@ -45,9 +45,9 @@
 
 ## Output
 
-
-### Name:
-### Register Number: 
+![image](https://github.com/shalinikannan23/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118656529/7164a918-384f-408a-87a9-f21334876293)
+### Name: MAMTHA I
+### Register Number: 212222230076
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
